@@ -20,8 +20,8 @@ function App() {
   return (
     <>
       <NavbarCustom/>
-      {/*<HomeCarousel/>*/}
-      <HomeBackground/>
+      <HomeCarousel/>
+      {/*<HomeBackground/>*/}
       <BrandsSection/>
       <TestimonialsSection/>
       
